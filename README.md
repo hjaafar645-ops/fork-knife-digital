@@ -20,7 +20,7 @@ creating a dynamic storytelling experience.
 • 🔝 Dynamic UI Components: Features a "Back to Top" smart button and a floating header that adapts its transparency based on scroll position.
 
 ### 🛠️ Tech Stack🌐
-• HTML5 – Modern semantic structure for SEO.
+• HTML – Modern semantic structure for SEO.
 • 🎨 CSS3 – Advanced layouts with Flexbox, Overlays, and Cubic-Bezier transitions.
 • ⚡ JavaScript (ES6+) – Custom DOM manipulation, scroll event listeners, and interactive logic.
 • 🔔 FontAwesome – Professional iconography.
