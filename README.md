@@ -37,6 +37,5 @@ creating a dynamic storytelling experience.
 <img width="420" height="730" alt="لقطة الشاشة 2026-05-11 162504" src="https://github.com/user-attachments/assets/d64cdffd-f1be-40be-b45a-4a2ac596ad7d" />
 
 ### 🔗 Live Demo
-https://hjaafar645-ops.github.io/fork-knife-digital/
 
 ### 👤 Designed and developed by : Jafar Hasan
