@@ -3,7 +3,8 @@
 The primary goal of this project is to provide a visually stunning advertising platform for gourmet dining,
 focusing on high-quality imagery, smooth interactions, and a professional brand identity.
 
-## 💡 Note: This project was originally created during my early stages of learning web development a year ago. It has been re-uploaded to GitHub to showcase my journey and the foundational skills I’ve built in UI design and advertising aesthetics.
+### 💡 Note:
+This project was originally created during my early stages of learning web development a year ago. It has been re-uploaded to GitHub to showcase my journey and the foundational skills I’ve built in UI design and advertising aesthetics.
 
 ### 🔄 Status & Versioning
 • Version: 1.0 (Production Ready)
