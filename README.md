@@ -39,4 +39,4 @@ creating a dynamic storytelling experience.
 ### 🔗 Live Demo
 https://hjaafar645-ops.github.io/fork-knife-digital/
 
-### 👤 Designed and developed by : Jafar Hasan
+### 👤 Designed and developed by : JAFAR
